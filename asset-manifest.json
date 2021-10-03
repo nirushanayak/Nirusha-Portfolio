@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Nirusha-Portfolio/static/css/main.a617e044.chunk.css",
+    "main.js": "/Nirusha-Portfolio/static/js/main.066e45dd.chunk.js",
+    "main.js.map": "/Nirusha-Portfolio/static/js/main.066e45dd.chunk.js.map",
+    "runtime-main.js": "/Nirusha-Portfolio/static/js/runtime-main.0699611d.js",
+    "runtime-main.js.map": "/Nirusha-Portfolio/static/js/runtime-main.0699611d.js.map",
+    "static/js/2.b25ef2e5.chunk.js": "/Nirusha-Portfolio/static/js/2.b25ef2e5.chunk.js",
+    "static/js/2.b25ef2e5.chunk.js.map": "/Nirusha-Portfolio/static/js/2.b25ef2e5.chunk.js.map",
+    "static/js/3.b6019f67.chunk.js": "/Nirusha-Portfolio/static/js/3.b6019f67.chunk.js",
+    "static/js/3.b6019f67.chunk.js.map": "/Nirusha-Portfolio/static/js/3.b6019f67.chunk.js.map",
+    "index.html": "/Nirusha-Portfolio/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/Nirusha-Portfolio/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.b25ef2e5.chunk.js.LICENSE.txt": "/Nirusha-Portfolio/static/js/2.b25ef2e5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0699611d.js",
+    "static/js/2.b25ef2e5.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.066e45dd.chunk.js"
+  ]
+}
